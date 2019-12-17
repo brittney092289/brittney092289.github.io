@@ -16,4 +16,4 @@ There will always something new to learn, so I am constantly learning and improv
 
 <strong>[Let's work together!](https://www.brittneymiller.com/#contact)!</strong>
 
-<h4>Current focus:</h4> <u><em>Seeking a professional role in Front-End Development</em></u>.
+<h4>Current focus:</h4> <span><u><em>Seeking a professional role in Front-End Development</em></u>.</span>
