@@ -279,9 +279,19 @@ blockquote p {
     font-size: 22px;
     font-style: italic;
   }
-.divider {
-	border: 2px solid $brown;
-	}
+ 
+  .divider {
+    border: 2px solid $brown;
+  }
+	
+  .center-image {
+    margin: 0 auto;
+    display: block;
+  }
+
+  center-text {
+    text-align:center;
+  }
 
   .comments {
     margin-top: 10px;
