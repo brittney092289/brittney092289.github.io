@@ -3,10 +3,9 @@ layout: post
 title: Using the Google Books API
 ---
 
-![_config.yml]({{ site.baseurl }}/images/google-books.png){: .center-image }
-
-
 I created a webpage that would pull data from my personal “Library” on Google Books and display the book information on the screen through the Google Books API. In my project, I used a combination of HTML, CSS, JavaScript, and the Mustache template system to achieve this.
+
+![_config.yml]({{ site.baseurl }}/images/google-books.png){: .center-image }
 
 {% include media-link.html url=”http://brittneymiller.com/library.html" text=”SEE THE FINAL VERSION OF MY GOOGLE BOOKS LIBRARY.” target=”_blank” %}
 
@@ -50,5 +49,6 @@ Finally, I added some CSS styling to style the booklist container.
 <hr class="divider">
 
 <p align="center">Now, that’s just like magic!⚡️</p>
+
 {% include media-link.html url=”http://brittneymiller.com/library.html" text=”SEE THE FINAL VERSION OF MY GOOGLE BOOKS LIBRARY.” target=”_blank” %}
 
