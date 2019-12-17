@@ -7,7 +7,7 @@ I created a webpage that would pull data from my personal “Library” on Googl
 
 ![_config.yml]({{ site.baseurl }}/images/google-books.png){: .center-image }
 
-{% include media-link.html url=”http://brittneymiller.com/library.html" text=”SEE THE FINAL VERSION OF MY GOOGLE BOOKS LIBRARY.” target=”_blank” %}
+{% include media-link.html url=”http://brittneymiller.com/library.html" text=”SEE THE FINAL VERSION OF MY GOOGLE BOOKS LIBRARY” target=”_blank” %}
 
 The first thing I needed to do was create a basic container for my booklist data to live in. To do so, I created a basic HTML document with a header and description, and some basic inline styling. Another thing I did was generate my personal Google Books API key.
 
@@ -50,5 +50,5 @@ Finally, I added some CSS styling to style the booklist container.
 
 <p align="center">Now, that’s just like magic!⚡️</p>
 
-{% include media-link.html url=”http://brittneymiller.com/library.html" text=”SEE THE FINAL VERSION OF MY GOOGLE BOOKS LIBRARY.” target=”_blank” %}
+{% include media-link.html url=”http://brittneymiller.com/library.html" text=”SEE THE FINAL VERSION OF MY GOOGLE BOOKS LIBRARY” target=”_blank” %}
 
