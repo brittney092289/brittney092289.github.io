@@ -4,7 +4,7 @@ title: Using the Google Books API
 ---
 
 
-![_config.yml]({{ site.baseurl }}/images/google-.bookspng)
+![_config.yml]({{ site.baseurl }}/images/google-books.png)
 
 
 I created a webpage that would pull data from my personal “Library” on Google Books and display the book information on the screen through the Google Books API. In my project, I used a combination of HTML, CSS, JavaScript, and the Mustache template system to achieve this.
