@@ -4,13 +4,16 @@ title: About
 permalink: /about/
 ---
 
-<h1>Greetings!</h1>
+<h1>About Me</h1>
 
-<strong>My name is Brittney!</strong>
+<blockquote>Junior developer with a passion for Front-End development and web technologies</blockquote>
 
-I am a graduate of Kennesaw State University with a Bachelor’s of Science in Information Technology, concentration in Mobile and Web Technologies. My passion is web development and I am constantly learning and improving my skills to enhance my knowledge of the industry. My strengths are in front-end web development using technologies such as HTML5, CSS, JavaScript and jQuery frameworks. I am seeking opportunities to use my knowledge of web technologies while continuously learning and enhancing my skills.
+Web development and web design have been my favorite things since the day I took my first web development class in college! The feeling of seeing my code successfully appear right before my eyes sparked a deep interest inside me, and it hasn’t stopped since. The best part about being in web development for me is being able to make anything I want through writing code with a little hard work and creativity.
 
+I graduated from Kennesaw State University with a Bachelor’s of Science in Information Technology concentrating in Mobile and Web Technologies. My studies led me to develop a passion for web development and web design. Because so, I began to create and develop web pages and web apps in my spare time. This helped me to build strengths in front-end web development. My favorite technologies to use to create awesome web pages are HTML5, CSS3, SCSS, JavaScript, PHP, and Photoshop.
 
-In my spare time, I enjoy doing astrophotography, painting, and brushing up on my Harry Potter lore.
+There will always something new to learn, so I am constantly learning and improving my skills to enhance my knowledge of the industry. I am seeking opportunities to use my knowledge of web technologies while continuously learning and enhancing my skills.
 
-Let's work together! Feel free to [contact me](https://www.brittneymiller.com/)!
+[Let's work together!](https://www.brittneymiller.com/#contact)!
+
+<blockquote><strong>Current focus:</strong> <u><em>Seeking a professional role in Front-End Development</em></u>.</blockquote>
