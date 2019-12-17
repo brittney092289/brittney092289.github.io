@@ -14,6 +14,6 @@ I graduated from Kennesaw State University with a Bachelor’s of Science in Inf
 
 There will always something new to learn, so I am constantly learning and improving my skills to enhance my knowledge of the industry. I am seeking opportunities to use my knowledge of web technologies while continuously learning and enhancing my skills.
 
-<strong>[Let's work together!](https://www.brittneymiller.com/#contact)!</strong>
+<strong>[Let's work together!](https://www.brittneymiller.com/#contact)</strong>
 
-<h4>Current focus:</h4> <span><u><em>Seeking a professional role in Front-End Development</em></u>.</span>
+<h4>Current focus: <span><u><em>Seeking a professional role in Front-End Development</em></u>.</span></h4>
