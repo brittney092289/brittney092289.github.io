@@ -260,6 +260,17 @@ blockquote {
     }
   }
 
+.focus {
+        color: rgb(7, 146, 123);
+        font-size: 2rem;
+        .focus-2 {
+            font-style: italic;
+            font-size: 1.5rem;
+            color: rgb(65, 45, 3);
+            border-bottom: 3px solid rgb(7, 146, 123);
+        }
+    }
+
 .post-title {
   text-align: center;
 }
