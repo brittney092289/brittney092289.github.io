@@ -14,4 +14,4 @@ I graduated from Kennesaw State University with a Bachelor’s of Science in Inf
 
 There will always something new to learn, so I am constantly learning and improving my skills to enhance my knowledge of the industry. I am seeking opportunities to use my knowledge of web technologies while continuously learning and enhancing my skills.
 
-<h4>Current focus: <span><u><em>Seeking a professional role in Front-End Development</em></u>.</span></h4>
+<h4 class="focus">Current focus: <span class="focus-2">Seeking a professional role in Front-End Development.</span></h4>
