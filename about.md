@@ -6,7 +6,7 @@ permalink: /about/
 
 <h1>About Me</h1>
 
-<blockquote><p>Junior developer with a passion for Front-End development and web technologies</p></blockquote>
+<p class="blockquote">Junior developer with a passion for Front-End development and web technologies</p>
 
 Web development and web design have been my favorite things since the day I took my first web development class in college! The feeling of seeing my code successfully appear right before my eyes sparked a deep interest inside me, and it hasn’t stopped since. The best part about being in web development for me is being able to make anything I want through writing code with a little hard work and creativity.
 
