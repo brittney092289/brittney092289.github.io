@@ -9,7 +9,7 @@ I've thought about this for a while and I finally started it! But why have I dec
 
 ![_config.yml]({{ site.baseurl }}/images/hello-world.png){: .center-image }
 
-<h3>THE LIST</h3>
+<h3 align="center">THE LIST</h3>
 <ol>
   <li>Vocalize and Visualize Ideas</li>
   By keeping a coding journal, I hope to be able to better organize and plan my projects by formulating steps, documenting my work, and setting goals. And hopefully this will spark some creativity and help me come up with some pretty neat ideas for future projects. 
@@ -22,4 +22,4 @@ I've thought about this for a while and I finally started it! But why have I dec
 </ol>
 
 So here's to the future of my coding diary 🎉 I hope to see you again!
-<h4>Stay Tuned!</h4>
+<h4 align="center">Stay Tuned!</h4>
