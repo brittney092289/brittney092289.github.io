@@ -2,9 +2,10 @@
 layout: post
 title: Hello World!
 ---
-<h2>Welcome to my Coding Diary!</h2>
 
 I've thought about this for a while and I finally started it! But why have I decided to keep a coding diary? I have come up with a list of reasons that I think will benefit me (and also others who use this tactic).
+
+<h2>Welcome to my Coding Diary!</h2>
 
 ![_config.yml]({{ site.baseurl }}/images/hello-world.png)
 
