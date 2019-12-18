@@ -21,5 +21,5 @@ I've thought about this for a while and I finally started it! But why have I dec
   Writing blog posts can help others see things from my perspective, which would not be possible with a private journal! By putting my thoughts out there, I increase the probability of someone finding and <em>enjoying</em> my work, which in turn can help me form connections, promote teamwork, and gather positive support and input from peers and future employers.
 </ol>
 
-So here's to the future of my coding diary 🎉 I hope to see you again!
+<h3 align="center">So here's to the future of my coding diary 🎉 I hope to see you again!</h3>
 <h4 align="center">Stay Tuned!</h4>
